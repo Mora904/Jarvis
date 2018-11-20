@@ -1,1 +1,1 @@
-worker node irc.js
+worker node bot.js
